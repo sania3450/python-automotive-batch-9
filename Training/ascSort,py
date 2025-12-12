@@ -1,0 +1,6 @@
+my_list = [85, 45, 2, 562, 81]
+
+my_list.sort()
+
+print("Sorted list in ascending order:", my_list)
+
